@@ -1,3 +1,4 @@
+#first install phonenumbers,folium and opencage in your terminal or cmd
 import phonenumbers
 import folium
 from phonenumbers import geocoder
